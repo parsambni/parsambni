@@ -76,10 +76,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/parsambni/parsambni/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">Happy Coding!</h3>
 
 ###
