@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hey, my name is Parsa. I'm a Computer Science student at University of Isfahan.</p>
+<p align="left">Hey there, my name is Parsa. I'm a Computer Science student at University of Isfahan.</p>
 
 ###
 
