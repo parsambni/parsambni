@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hey there, my name is Parsa. I'm a Computer Science student at University of Isfahan.</p>
+<p align="left">Hey, my name is Parsa. I'm a Computer Science student at University of Isfahan.</p>
 
 ###
 
@@ -70,18 +70,19 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parsambni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=parsambni&locale=en&mode=weekly&theme=nightowl&hide_border=true&border_radius=5&order=3" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parsambni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=160&theme=nightowl&hide_border=true&order=2" height="200" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=parsambni&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parsambni&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<h3 align="left">Happy Coding!</h3>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/parsambni/count.svg?"  />
 </div>
+
+###
+
+<h3 align="left">Happy Coding!</h3>
 
 ###
