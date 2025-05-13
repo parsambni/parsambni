@@ -75,13 +75,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parsambni&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+###
+
+<h3 align="left">Happy Coding!</h3>
+
+###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/parsambni/count.svg?"  />
 </div>
-
-###
-
-<h3 align="left">Happy Coding!</h3>
 
 ###
