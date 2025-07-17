@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Parsa</h1>
+<h3 align="center">A passionate computer vision and machine learning.</h3>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parsa-mobini-dehkordi) 
@@ -10,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsambni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=parsambni&theme=onestar&no-frame=false&no-bg=true&margin-w=8)
+![](https://github-trophies.vercel.app/?username=parsambni&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
