@@ -18,5 +18,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parsambni&label=Profile%20views&color=0e75b6&style=flat" alt="parsambni" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=parsambni&label=Profile%20views&color=0e75b6&style=flat" alt="parsambni" /> </p>
 
