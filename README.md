@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsambni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=parsambni&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=parsambni&theme=onestar&no-frame=false&no-bg=true&margin-w=2)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
