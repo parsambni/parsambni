@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Parsa</h1>
+<h1 align="center">Hey 👋, This is Parsa</h1>
 <h3 align="center">A computer vision and machine learning passionate.</h3>
 
 ## 🌐Socials
